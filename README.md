@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Csunsolar or Chris Sun!
-- 👀 I’m interested in Analyzing Data
-- 🌱 I’m currently learning PostgreSQL
+- 👀 I’m interested in Analyzing Data using SQL and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Christophersun09@gmail.com
 
 <!---
